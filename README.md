@@ -1,4 +1,6 @@
 # DAPPLE: An Efficient Pipelined Data Parallel Approach for Large Models Training
+[![DOI](https://zenodo.org/badge/237746998.svg)](https://zenodo.org/badge/latestdoi/237746998)
+
 
 [![](https://img.shields.io/badge/PyPI-HPGO%200.92-blue?logo=python&style=for-the-badge&logoColor=yellow)](https://pypi.org/project/HPGO/)
 
